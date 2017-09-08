@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/mattische/js-ex/issues"
   },
-  "homepage": "https://github.com/mattische/js-ex#readme"
+  "homepage": "https://github.com/mattische/js-ex#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  }
 }

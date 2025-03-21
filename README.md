@@ -1,6 +1,3 @@
 # js-ex
 
-
-doki
-oki
-
+ok
